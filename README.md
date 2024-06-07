@@ -6,6 +6,6 @@ https://www.kaggle.com/datasets/aadarshvelu/heart-failure-prediction-clinical-re
 
 
 References:
-https://jasp-stats.org/
-https://www.kaggle.com/code/eisgandar/heart-failure-eda-and-prediction
+- https://jasp-stats.org/  
+- https://www.kaggle.com/code/eisgandar/heart-failure-eda-and-prediction
 
